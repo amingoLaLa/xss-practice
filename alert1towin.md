@@ -4,7 +4,7 @@
 # Level 1-Adobe
 這關將 " replace為 \"，因此要試著繞過。
 
-%22)alert(1)//
+\");alert(1);//
 
 # Level 2-Json
 這題使用了Json.stringify，可看一下運作的方式。
